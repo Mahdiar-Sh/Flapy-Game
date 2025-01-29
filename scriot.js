@@ -124,7 +124,7 @@ var bird = {
     speed: 0,
     gravity: 0.05,
     animateIndex: 0,
-    jump: 4.6,
+    jump: 2.6,
     root: 0,
     radius: 12,
     draw: function () {
