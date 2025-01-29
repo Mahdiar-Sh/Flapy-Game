@@ -122,9 +122,9 @@ var bird = {
     x: 50,
     y: 150,
     speed: 0,
-    gravity: 0.05,
+    gravity: 0.25,
     animateIndex: 0,
-    jump: 2.6,
+    jump: 4.6,
     root: 0,
     radius: 12,
     draw: function () {
